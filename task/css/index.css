@@ -1,0 +1,228 @@
+.main{
+	height: 3500px;
+	width: 1000px;
+	background-color: skyblue;
+}
+.a{
+	height: 400px;
+	width: 1000px;
+	background-image: url(../images/imag1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.b{
+	height: 500px;
+	width: 1000px;
+	background-image: url(../images/imagee2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.c{
+	color: white;
+	font-size: 13px;
+	margin-top: 130px;
+	margin-right: 150px;
+	float: right;
+}
+span{
+    border: 2px solid white;
+    font-size: 13px;
+    color: black;
+    background-color: white;
+    text-align: justify;
+    
+}
+.e{
+	background-image: url(../images/image3.webp);
+	height: 580px;
+	width: 1000px;
+	position: relative;
+}
+.f{
+	background-image: url(../images/image4.webp);
+	height: 370px;
+	width: 250px;
+	float: left;
+	background-size: cover;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-bottom: 400px;
+}
+.g{
+	margin-top: 370px;
+	color: white;
+	font-size: 12px;
+	font-family: sans-serif;
+}
+.h{
+	background-image: url(../images/image5.webp);
+	height: 370px;
+	width: 250px;
+	float: left;
+	background-size: cover;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-bottom: 400px;
+}
+.i{
+	background-image: url(../images/image6.webp);
+	height: 370px;
+	width: 250px;
+	float: left;
+	background-size: cover;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-bottom: 400px;
+}
+.j{
+	background-color: lightpink;
+	height: 180px;
+	width: 1000px;
+	position: absolute;
+}
+.t1{
+    font-size: 33px;
+	text-align: left;
+	padding-left: 120px;	
+	padding-top: 20px;
+	font-family: monospace;
+}
+.t2{
+	font-size: 15px;
+	float: right;
+	padding-top: 35px;
+	padding-right: 100px;
+}
+.k{
+	background-image: url(../images/image7.webp);
+	height: 700px;
+	width: 1000px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.im1{
+	background-image: url(../images/image8.webp);
+	float: left;
+	height: 300px;
+	width: 350px;
+	background-size: cover;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.t3{
+	font-size: 40px;
+	color: white;
+	padding-left: 30px;
+	padding-top: 80px;
+	float: right;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	font-weight: 60px;
+	font-family: sans-serif;
+}
+.t4{
+	font-size: 13px;
+	color: white;
+	float: right;
+	font-family: serif;
+	margin-top: 40px;
+	margin-right: 90px;
+}
+.l{
+	background-color: black;
+	height: 480px;
+	width: 1000px;
+	position: relative;
+}
+.t5{
+	font-size: 12px;
+	float: left;
+	color: white;
+	font-family: cantarell;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+.semicircle2{
+	border-top-right-radius: 100px;
+	border-bottom-right-radius: 100px;
+	background-color: orange;
+	width: 150px;
+	height: 250px;
+	float: right;
+	margin-right: 350px;
+    margin-top: 100px;
+}
+.t6{
+	font-size: 30px;
+	padding-top: 90px;
+	color: white;
+	padding-left:50px;
+	font-weight: bold;
+	position: absolute;
+	font-family: tahoma;
+}
+.semicircle1{
+	width: 115px;
+	height: 230px;
+	border-top-left-radius: 100px;
+	border-bottom-left-radius: 100px;
+	background-color: orange;
+	float: left;
+	margin-top: 140px;
+	margin-left: 320px;
+}
+.t0{
+   position: absolute;
+   font-weight: bold;
+   font-family: tahoma;
+   padding-top: 110px;
+   font-size: 30px;
+   margin-left:190px;
+   margin-top: 120px;
+  color: white;
+}
+.m{
+	background-image: url(../images/image10.webp);
+	height: 500px;
+	width:1000px;
+	background-size: cover;
+}
+.img2{
+	background-image: url(../images/image11.webp);
+	height:350px;
+	width: 350px;
+	float: right;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background-size: cover;
+	margin-right: 100px;
+}
+.t7{
+	font-size: 12px;
+	padding-left: 200px;
+	padding-top: 30px;
+	padding-right: 10px;
+	font-family: tahoma;
+}
+h1{
+	font-size: 20px;
+}
+.t8{
+	font-size: 30px;
+	color: white;
+	float: left;
+	font-family: tahoma;
+	font-weight: 80px;
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.form{
+	background-color: transparent;
+	border:1px solid;
+	padding-left: 5px;
+	height: 25px;
+	font-size: 10px;
+	width: 250px;
+}
